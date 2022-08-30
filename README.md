@@ -3,6 +3,11 @@ Fast and accurate face detection with Delphi FMX and Tensorflow Lite
 
 Windows 10 x64, inference time (0.0087 sec / 8.7 ms), 110 fps on CPU, AMD Ryzen 5 3500X, 8 threads, image with 160x160 pixels
 
-![screen2](https://user-images.githubusercontent.com/66531939/179339917-452f5902-0a39-4d11-83f3-0ad5b26e2e5b.jpg)
-![463785](https://user-images.githubusercontent.com/66531939/179495131-1a8dadc1-b166-41ae-92d4-893cb55e2d49.jpg)
-![screen](https://user-images.githubusercontent.com/66531939/179339810-385e0c83-dfec-44fb-aa5b-af1c7a4d59ef.jpg)
+![screen_05](https://user-images.githubusercontent.com/66531939/187113401-51faa75d-6b0d-4078-99e6-9c0af1a3b969.jpg)
+![screen_04](https://user-images.githubusercontent.com/66531939/187112313-51a6532f-2af3-4449-afb3-61228b092b78.jpg)
+
+<b>TODO</b>
+- [ ] Train lite models, x2 faster, less accurate (very slow training at the moment)
+- [ ] Increase even more accuracy (very slow training at the moment)
+- [ ] Windows GPU support
+- [ ] Face alignment, face recognition
